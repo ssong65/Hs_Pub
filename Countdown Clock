@@ -20,7 +20,7 @@ body{
   letter-spacing: 5px;
 }
 
-.days, .hours, .minutes,{
+.days, .hours, .minutes{
   display: inline-block;
   padding: 20px;
   width: 100px;
